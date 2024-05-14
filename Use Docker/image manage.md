@@ -1,5 +1,9 @@
 
 
+<p align="center">
+  <img src="https://github.com/seunghyun0522/DevOpsJourney/assets/75532258/6eb7b3f7-54b2-40da-809b-1240bc546249" width="30%"/>
+</p>
+
 ## 도커 서버의 종류
 
 도커를 공부하면서 OS, Web, Database 등 다양한 콘텐츠를 가져올 수 있다 보니 어떤 것이 OS인지 Web인지 헷갈리기도 했고 사용법이 다 다르다는 것을 공부하면서 알게 됐다.
